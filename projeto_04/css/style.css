@@ -176,20 +176,20 @@ section.servicos > .container .box-servico p{
 section.servicos > .container .box-servico:nth-of-type(1){
 	width: 30%;
 	padding:50px 2%;
-	background-color: #576975;
+	background-color: #085DD4;
 }
 
 section.servicos > .container .box-servico:nth-of-type(2){
 	width: 40%;
 	padding:80px 2%;
-	background-color: #688293;
+	background-color: #0277BD;
 	background-image: none;
 }
 
 section.servicos > .container .box-servico:nth-of-type(3){
 	width: 30%;
 	padding:50px 2%;
-	background-color: #576975;
+	background-color: #085DD4;
 }
 
 section.perfil-container{
