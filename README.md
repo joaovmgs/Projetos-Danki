@@ -13,7 +13,7 @@
 
 
   <p>   
-projects created in the [dankicode]https://cursos.dankicode.com :space_invader: front end course.
+projects created in the [dankicode](https://cursos.dankicode.com) :space_invader: front end course.
   </p>
 
 
