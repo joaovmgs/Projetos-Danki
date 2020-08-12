@@ -4,7 +4,7 @@
 
 
 <h4 align="center">
-  DankiCode #2
+  DankiCode FrontEnd(FULL)
 </h4>
 
 
@@ -13,7 +13,7 @@
 
 
   <p>   
-projects created in the danki code front end course.
+projects created in the dankicode :space_invader: front end course.
   </p>
 
 
