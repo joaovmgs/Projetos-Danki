@@ -1,34 +1,8 @@
-<h1 align="center">
-   
-</h1>
+# Projetos-Danki
+## Projetos-Danki :computer:
 
+![imagem programação](https://github.com/Deividev365/repository/blob/master/giphy.gif)
 
-<h4 align="center">
-  DankiCode FrontEnd(FULL)
-</h4>
+### Todos os projetos realizados do curso de front-end da [DANKICODE](https://cursos.dankicode.com)
 
-
-## ℹ️ About Project
-
-
-
-
-projects created in the [DankiCode](https://cursos.dankicode.com "Clique e acesse agora!")
-:space_invader: front end course.
-
-
-
-
-## 💻 Tecnologies
-
-technologies used
-
-#### 🔨 Tecnologies
-
-| Type                | Support   |
-|---------------------|:---------:|
-| [HTML]()                          | ✔         | 
-| [CSS]()         | ✔         |
-| [JavaScript]()   | ✔         |
-
-
+### Você pode encontrar o visual de cada um deles no meu behance [clicando aqui](https://www.behance.net/joovictormgs)
