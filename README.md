@@ -12,10 +12,10 @@
 
 
 
-  <p>   
-projects created in the </p>[DankiCode](https://cursos.dankicode.com "Clique e acesse agora!")
-<p> :space_invader: front end course.
-  </p>
+
+projects created in the [DankiCode](https://cursos.dankicode.com "Clique e acesse agora!")
+:space_invader: front end course.
+
 
 
 
