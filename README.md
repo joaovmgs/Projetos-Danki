@@ -13,7 +13,8 @@
 
 
   <p>   
-projects created in the [GitHub Pages](https://pages.github.com/) :space_invader: front end course.
+projects created in the </p>[DankiCode](https://cursos.dankicode.com "Clique e acesse agora!")
+<p> :space_invader: front end course.
   </p>
 
 
