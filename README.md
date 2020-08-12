@@ -13,7 +13,7 @@
 
 
   <p>   
-projects created in the <a href=“https://cursos.dankicode.com/“>DankiCode</a> :space_invader: front end course.
+projects created in the [Ir para seção](google.com) :space_invader: front end course.
   </p>
 
 
