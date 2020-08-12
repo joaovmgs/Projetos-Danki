@@ -12,16 +12,15 @@
 
 
 
-  <p>
-    
-Projects for DankiCode
+  <p>   
+projects created in the danki code front end course.
   </p>
 
 
 
 ## 💻 Tecnologies
 
-Este projeto contém as seguintes tecnologias:
+technologies used
 
 #### 🔨 Tecnologies
 
