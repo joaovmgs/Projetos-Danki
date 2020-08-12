@@ -1,5 +1,34 @@
-# Projetos-Danki
+<h1 align="center">
+   
+</h1>
 
-Todos os projetos do curso de front end da [DANKICODE](https://cursos.dankicode.com)
 
-Você pode encontrar o visual de cada um deles no [behance](https://www.behance.net/joovictormgs)
+<h4 align="center">
+  DankiCode #2
+</h4>
+
+
+## ℹ️ About Project
+
+
+
+  <p>
+    
+Projects for DankiCode
+  </p>
+
+
+
+## 💻 Tecnologies
+
+Este projeto contém as seguintes tecnologias:
+
+#### 🔨 Tecnologies
+
+| Type                | Support   |
+|---------------------|:---------:|
+| [HTML]()                          | ✔         | 
+| [CSS]()         | ✔         |
+| [JavaScript]()   | ✔         |
+
+
